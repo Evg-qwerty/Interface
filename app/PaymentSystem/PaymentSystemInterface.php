@@ -8,6 +8,8 @@
 
 namespace www\app\PaymentSystem;
 
+// При создании нового платежнго класса IDE выдаст ошибку
+// если в нем будет отсутсвовать интерфейс.
 
 interface PaymentSystemInterface
 {

@@ -8,6 +8,9 @@
 
 namespace www\app\PaymentSystem;
 
+// Класс должен содержать интерфейс имплементированный из PaymentSystemInterface
+// в данном случае это метод payment().
+// Метод payment() является общим методом для всех платежных классов
 
 class PayPal Implements PaymentSystemInterface
 {
