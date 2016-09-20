@@ -1,1 +1,1 @@
-## An example of the principle of "Polymorphism" in PHP
+## Example of use "Interface" in PHP
